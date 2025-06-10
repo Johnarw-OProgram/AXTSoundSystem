@@ -13,6 +13,11 @@ For Soon:
 Android
 Linux
 
+Tutorial:
+1-For Building You Need Download Tools And Libraries Like:
+Cmake,MiniAudio,Visual Studio 2022.
+2-And Open The file .sln and Check Library Of Miniaudio {if is bad directory replace by Your MiniAudio}.
+
 Bonus:
 Designer - By Me
 Programming / Fixer by GPT and me
